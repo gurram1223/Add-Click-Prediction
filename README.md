@@ -1,4 +1,4 @@
-# KDD CUP 2012 TRACK2
+# Predicting User Click
 
 __ Introduction: <br> Clickthrough rate (CTR) __
 is a ratio showing how often people who see your ad end up clicking it. Clickthrough rate (CTR) can be used to gauge how well your keywords and ads are performing.
